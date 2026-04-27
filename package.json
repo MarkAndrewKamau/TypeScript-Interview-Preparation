@@ -1,0 +1,21 @@
+{
+  "name": "typescript-interview-preparation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarkAndrewKamau/TypeScript-Interview-Preparation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/MarkAndrewKamau/TypeScript-Interview-Preparation/issues"
+  },
+  "homepage": "https://github.com/MarkAndrewKamau/TypeScript-Interview-Preparation#readme"
+}
